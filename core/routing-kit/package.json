@@ -1,0 +1,11 @@
+{
+  "name": "routing-kit",
+  "version": "0.0.0",
+  "description": "-",
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "readme": "-",
+  "_napaResolved": "git+https://github.com/RoutingKit/RoutingKit.git"
+}
